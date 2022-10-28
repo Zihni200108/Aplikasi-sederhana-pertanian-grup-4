@@ -80,9 +80,6 @@ if (!isset($_SESSION['Username'])) {
           <img src="img/art1_dash.jpg" alt="">
         </div>
         <div class="blog-news_info">
-          <div class="blog-news_date">
-            <span>Selasa, 12 Mei 2020</span>
-          </div>
           <h1 class="blog-news_title">Bahan Penting yang Harus Dipersiapkan untuk Menanam Vertikultur</h1>
           <p class="blog-news_text">
             Pertanianku — <b>Vertikultur</b> akan menjadi mudah ketika persiapan yang Anda miliki sudah memadai, baik persiapan secara ilmu maupun persiapan 
@@ -115,7 +112,7 @@ if (!isset($_SESSION['Username'])) {
 
   <!-- Footer -->
   <footer class="page-footer">
-    <div class="footer">© smallFarm, 2020</div>
+    <div class="footer">© smallFarm</div>
   </footer>
   <!-- Akhir footer -->
 
