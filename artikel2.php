@@ -80,10 +80,7 @@ if (!isset($_SESSION['Username'])) {
           <img src="img/art2_dash.jpg" alt="">
         </div>
         <div class="blog-news_info">
-          <div class="blog-news_date">
-            <span>Selasa, 12 Mei 2020</span>
-          </div>
-          <h1 class="blog-news_title">Teknik Bertanam Sayur yang Bisa Digunakan Masyarakat Perkotaan</h1>
+                <h1 class="blog-news_title">Teknik Bertanam Sayur yang Bisa Digunakan Masyarakat Perkotaan</h1>
           <p class="blog-news_text">
             Pertanianku — Ada empat <b>teknik bertanam</b> yang bisa dilakukan masyarakat perkotaan untuk menanam sayur dari rumah, mulai dari teknik 
             yang paling sederhana dengan pot hingga teknik yang membutuhkan instalasi pendukung yang agak rumit. Berikut ini beberapa teknik bertanam 
@@ -116,7 +113,7 @@ if (!isset($_SESSION['Username'])) {
 
   <!-- Footer -->
   <footer class="page-footer">
-    <div class="footer">© smallFarm, 2020</div>
+    <div class="footer">© smallFarm</div>
   </footer>
   <!-- Akhir footer -->
 
