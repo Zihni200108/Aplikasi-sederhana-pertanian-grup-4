@@ -67,7 +67,7 @@
 
   <!-- Footer -->
   <footer class="page-footer">
-    <div class="footer">© smallFarm, 2020</div>
+    <div class="footer">© smallFarm</div>
   </footer>
   <!-- Akhir footer -->
 
