@@ -80,9 +80,6 @@ if (!isset($_SESSION['Username'])) {
           <img src="img/art3_dash.jpg" alt="">
         </div>
         <div class="blog-news_info">
-          <div class="blog-news_date">
-            <span>Rabu, 13 Mei 2020</span>
-          </div>
           <h1 class="blog-news_title">Sarana dan Prasarana yang Harus Dimiliki untuk Produksi Pupuk Organik</h1>
           <p class="blog-news_text">
 			Pertanianku — Dalam pembuatan <b>pupuk organik</b> membutuhkan beberapa sarana dan prasarana pendukung. Jika pupuk hanya dibuat untuk kepentingan
@@ -113,7 +110,7 @@ if (!isset($_SESSION['Username'])) {
 
   <!-- Footer -->
   <footer class="page-footer">
-    <div class="footer">© smallFarm, 2020</div>
+    <div class="footer">© smallFarm</div>
   </footer>
   <!-- Akhir footer -->
 
